@@ -1,0 +1,120 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #f7f7f7;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    padding: 20px;
+  }
+  
+  .navbar {
+    background-color: #fff;
+  }
+  
+  .navbar-brand {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .nav-link {
+    color: #333;
+    font-weight: 600;
+  }
+  
+  #home {
+    padding: 40px 0;
+  }
+  
+  #home h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  #home p {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  #home .btn-primary {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+  }
+  
+
+  #about {
+    padding: 40px 0;
+  }
+  
+  #about h2 {
+    font-size: 24px;
+  }
+  
+  #about p {
+    font-size: 18px;
+  }
+  
+
+  #portfolio {
+    padding: 40px 0;
+  }
+  
+  #portfolio h2 {
+    font-size: 24px;
+  }
+  
+  .card {
+    margin-bottom: 20px;
+  }
+  
+  .card-title {
+    font-size: 20px;
+  }
+  
+  .card-text {
+    font-size: 16px;
+  }
+  
+  #contact {
+    padding: 40px 0;
+  }
+  
+  #contact h2 {
+    font-size: 24px;
+  }
+  
+  .social-media a {
+    margin-right: 10px;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .form-control {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+
+  .btn {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  @media (max-width: 768px) {
+    #home {
+      text-align: center;
+    }
+  
+    #home img {
+      margin-top: 20px;
+    }
+  }
+  
